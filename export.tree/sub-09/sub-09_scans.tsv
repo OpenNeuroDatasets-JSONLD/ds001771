@@ -1,0 +1,7 @@
+acq_time	filename
+2017-04-11T09:10:06	func/sub-09_task-identification_run-01_bold.nii.gz
+2017-04-11T09:16:26	func/sub-09_task-identification_run-02_bold.nii.gz
+2017-04-11T09:23:06	func/sub-09_task-identification_run-03_bold.nii.gz
+2017-04-11T09:29:26	func/sub-09_task-identification_run-04_bold.nii.gz
+2017-04-11T09:36:06	func/sub-09_task-localizer_bold.nii.gz
+2017-04-11T11:14:26	func/sub-09_task-rest_bold.nii.gz
